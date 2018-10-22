@@ -1,6 +1,6 @@
 {
-  "name": "node-google-dfp",
-  "version": "0.3.2",
+  "name": "@afuggini/node-google-dfp",
+  "version": "0.4.0",
   "description": "Google DFP API Helper Library for NodeJS",
   "main": "index.js",
   "devDependencies": {
@@ -16,26 +16,16 @@
   "scripts": {
     "test": "grunt all"
   },
-  "author": "ShinyAds",
-  "contributors": [
-    {
-      "name": "Andre de Souza",
-      "email": "ajsouz@gmail.com"
-    },
-    {
-      "name": "Gregory Pike",
-      "email": "greg@gregpike.ca"
-    }
-  ],
+  "author": "Ariel Fuggini",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ShinyAds/node-google-dfp.git"
+    "url": "https://github.com/afuggini/node-google-dfp.git"
   },
   "bugs": {
-    "url": "https://github.com/ShinyAds/node-google-dfp/issues"
+    "url": "https://github.com/afuggini/node-google-dfp/issues"
   },
-  "homepage": "https://github.com/ShinyAds/node-google-dfp",
+  "homepage": "https://github.com/afuggini/node-google-dfp",
   "keywords": [
     "Google",
     "DFP",
